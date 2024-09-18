@@ -13,25 +13,25 @@ Welcome to the **Ultimate Markdown Notes Repository**! 🚀 This repository cont
 
 | Section | Description |
 |---------|-------------|
-| [1. Markdown Basics](#1-markdown-basics) | Introduction to Markdown and how to create a `.md` file |
-| [2. Headings](#2-headings) | Creating headings with different levels using `#` |
-| [3. Paragraphs](#3-paragraphs) | Writing and formatting paragraphs |
-| [4. Extended Markdown](#4-extended-markdown) | Overview of different Markdown flavors |
-| [5. Bold & Italics](#5-bold--italics) | Applying bold and italic text styles |
-| [6. Strikethrough](#6-strikethrough) | Striking through text using `~~` |
-| [7. Highlight](#7-highlight) | Highlighting text using `<mark>` tag |
-| [8. Superscript / Subscript](#8-superscript--subscript) | Creating superscript and subscript text |
-| [9. Emoji](#9-emoji) | Adding emojis to your Markdown |
-| [10. Inline Code](#10-inline-code) | Displaying code inline using backticks |
-| [11. Code Blocks](#11-code-blocks) | Creating code blocks with syntax highlighting |
-| [12. Links](#12-links) | Creating links and using relative links |
-| [13. Images](#13-images) | Embedding images in Markdown |
-| [14. Blockquotes](#14-blockquotes) | Quoting text using blockquotes |
-| [15. Horizontal Line](#15-horizontal-line) | Adding horizontal lines for separation |
-| [16. Lists](#16-lists) | Creating ordered and unordered lists |
-| [17. Tables](#17-tables) | Creating tables with aligned columns |
-| [18. Checklist](#18-checklist) | Creating checklists with checkboxes |
-| [19. Cheatsheet] | A Summary of the Markdown in form of a cheatsheet |
+| 1. Markdown Basics | Introduction to Markdown and how to create a `.md` file |
+| 2. Headings | Creating headings with different levels using `#` |
+| 3. Paragraphs | Writing and formatting paragraphs |
+| 4. Extended Markdown | Overview of different Markdown flavors |
+| 5. Bold & Italics | Applying bold and italic text styles |
+| 6. Strikethrough | Striking through text using `~~` |
+| 7. Highlight | Highlighting text using `<mark>` tag |
+| 8. Superscript / Subscript | Creating superscript and subscript text |
+| 9. Emoji | Adding emojis to your Markdown |
+| 10. Inline Code | Displaying code inline using backticks |
+| 11. Code Blocks | Creating code blocks with syntax highlighting |
+| 12. Links| Creating links and using relative links |
+| 13. Images | Embedding images in Markdown |
+| 14. Blockquotes | Quoting text using blockquotes |
+| 15. Horizontal Line | Adding horizontal lines for separation |
+| 16. Lists | Creating ordered and unordered lists |
+| 17. Tables | Creating tables with aligned columns |
+| 18. Checklist | Creating checklists with checkboxes |
+| 19. Cheatsheet | A Summary of the Markdown in form of a cheatsheet |
 
 ---
 
